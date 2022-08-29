@@ -1,3 +1,14 @@
+# Travaux préparatoires des cours sur AWS
+
+Ce repertoire regroupera tous mes travaux préparatoires d'une série de cours sur AWS dont les cibles principales sont : 
+- les développeurs indépendants,
+- les solopreneurs, bootstrappers et autres profils d'entrepreneurs avec un "background" de développeur,
+- les développeurs front-end.
+
+Cette série de cours commencera par le niveau "Foundational" prévu fin 2022 et les niveaux "Associate" prévu à mi-2023. 
+
+La documentation actuelle s'appuie sur le template [Syntax](https://tailwindui.com/templates/syntax) de [Tailwind UI](https://tailwindui.com). 
+
 # Syntax
 
 Syntax is a [Tailwind UI](https://tailwindui.com) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
